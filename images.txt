@@ -1,4 +1,4 @@
-postgres:16-alpine
-redis:7-alpine
+postgres:latest
+redis:latest
 msmkls/daoliyu-backend:latest
 msmkls/daoliyu-frontend:latest
