@@ -1,4 +1,2 @@
-postgres:latest
-redis:latest
-msmkls/daoliyu-backend:latest
-msmkls/daoliyu-frontend:latest
+msmkls/daoliyu-backend:0.1.9
+msmkls/daoliyu-frontend:0.1.9
